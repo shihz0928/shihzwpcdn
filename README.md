@@ -1,2 +1,2 @@
 # shihzwpcdn
-CDN for shihz.net, with jsdelivr
+CDN for shihz.net, via jsdelivr
